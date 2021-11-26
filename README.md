@@ -1,4 +1,4 @@
-# m3_hw_arbitrage
+# arbitrage
 
 This file examines historical arbitrage opportunities for bitcoin during the first 3 months of 2018 across 2 different exchanges: Bitstamp and Coinbase.
 
